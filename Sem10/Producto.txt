@@ -1,3 +1,7 @@
 1, Libro, 20
 2, Cuaderno, 5.5
 3, Lapiz, 1.5
+4, Lapicero, 3.5
+5, Borrador, 1.0
+6, Calculadora, 120.50
+7, Computadora. 1250.00
