@@ -1,0 +1,5 @@
+P001;Juan Pérez Gómez;45;Hipertensión;Cardiología;150.00
+P002;María López Díaz;33;Gripe;Medicina General;80.00
+P003;Luis Ramos Peña;29;Fractura de pierna;Traumatología;220.00
+P004;Carla Ruiz Torres;60;Diabetes;Endocrinología;180.00
+P005;Sofía Castillo Vega;25;Control prenatal;Ginecología;160.00

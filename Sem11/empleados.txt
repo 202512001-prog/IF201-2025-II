@@ -1,0 +1,5 @@
+COD001;Ana Torres;Sistemas;Analista;4800.50
+COD002;Luis Paredes;Recursos Humanos;Coordinador;3900.00
+COD003;María Vega;Sistemas;Desarrollador;4200.75
+COD004;Carlos Ruiz;Contabilidad;Asistente;3100.00
+COD005;Lucía Ramos;Sistemas;Tester;3500.25
